@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-var element = React.createElement('h1', { className: 'greeting' }, 'Hello, world!');
+var element = React.createElement('h1', { className: 'greeting' }, 'Salut, le monde!');
 ReactDOM.render(element, document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function
